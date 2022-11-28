@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Reggie Ann!
 - 👀 I’m interested in music, anime, and cooking.
-- 🌱 I’m currently learning how play guitar.
 
 <!---
 reggieannms/reggieannms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
